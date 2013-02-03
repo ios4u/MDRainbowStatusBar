@@ -8,11 +8,11 @@ It doesn't look that good when in use either.
 
 BUT, it's quite fun. Enjoy!
 
-## Screen(shot)?
+## Screenshot
 
 [![](http://dumenci.me/storage/rsc.gif)](http://dumenci.me/storage/rsc.gif)
 
-## License
+## Dependencies
 
 QuartzCore.
 
