@@ -9,7 +9,7 @@
 #import "MDRainbowStatusBar.h"
 
 static NSArray * _defaultColors;
-static NSTimeInterval _defaultDuration = 5;
+static NSTimeInterval _defaultDuration = 0;
 
 static MDRainbowStatusBar *_instance = nil;
 
@@ -63,7 +63,7 @@ static MDRainbowStatusBar *_instance = nil;
 -(void)timerTick:(NSTimer *)timer {
     NSTimeInterval currentTime = [NSDate timeIntervalSinceReferenceDate];
     
-    if (currentTime - _startTime >= _duration) {
+    if (_duration != 0 && (currentTime - _startTime >= _duration)) {
         [self stop];
         return;
     }

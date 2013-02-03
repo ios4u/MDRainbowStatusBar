@@ -8,6 +8,10 @@ It doesn't look that good when in use either.
 
 BUT, it's quite fun. Enjoy!
 
+## Screen(shot)?
+
+[![](http://dumenci.me/storage/rsc.gif)](http://dumenci.me/storage/rsc.gif)
+
 ## License
 
 QuartzCore.
