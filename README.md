@@ -1,8 +1,8 @@
 # MDRainbowStatusBar
 
-MDRainbowStatusBar is the return of 'RainbowStatusBar'. It's made for fun, and apps featuring this will NOT probably get through the review process because of the use of 'private' API.
+MDRainbowStatusBar is the return of 'RainbowStatusBar'. It's made for fun, and apps featuring this will probably NOT get through the review process because of the use of 'private' API.
 
-**I repeat, apps featuring this will NOT probably get through the review process.**
+**I repeat, apps featuring this will probably NOT get through the review process.**
 
 It doesn't look that good when in use either.
 
